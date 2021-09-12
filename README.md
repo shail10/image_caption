@@ -14,7 +14,7 @@ You can either run the python notebook directly in google colab in GPU environme
 
 Or, clone the repository(or, download), download all the requirements.txt file and run the prediction.py file.
 
-Note - You need to download the Flicker8K dataset in order to display the images whose caption you are prdicting.
+Note - You need to download the Flicker8K dataset and add the main folder to the repo in order to display the images whose caption you are prdicting.
 
 ## MODEL SUMMARY
 
