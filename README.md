@@ -20,6 +20,6 @@ Note - You need to download the Flicker8K dataset and add the main folder to the
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](images/Screenshot%202021-09-11%20154750.png)
 
   
